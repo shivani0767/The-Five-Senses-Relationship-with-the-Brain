@@ -1,0 +1,18 @@
+<resources>
+    <string name = "app_name">The_Brain\'s_Connection_to_the_Five_Senses</string>
+    <string name = "app_title">The Brain\'s Connection to the Five Senses</string>
+    <string name="main_brain_image">Main Brain Image</string>
+    <string name="smell_button_label">Smell</string>
+    <string name="hearing_button_label">Hearing</string>
+    <string name="taste_button_label">Taste</string>
+    <string name="touch_button_label">Touch</string>
+    <string name="sight_button_label">Sight</string>
+    <string name="smell_screen_title">The Sense of Smell</string>
+    <string name="back_button_text">Back</string>
+    <string name="hearing_screen_title">The Sense of Hearing</string>
+    <string name="taste_screen_title">The Sense of Taste</string>
+    <string name="sight_screen_text">The Sense of Sight</string>
+    <string name="touch_screen_title">The Sense of Touch</string>
+
+
+</resources>

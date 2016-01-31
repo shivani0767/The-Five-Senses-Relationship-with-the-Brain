@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.shivani.the_brains_connection_to_the_five_senses">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".SmellActivity" />
+        <activity android:name=".HearingActivity"/>
+        <activity android:name=".TasteActivity"/>
+        <activity android:name=".SightActivity"/>
+        <activity android:name=".TouchActivity"/>
+    </application>
+
+</manifest>
